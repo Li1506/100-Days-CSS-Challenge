@@ -1,5 +1,5 @@
 # 100-Days-CSS-Challenge
-The 100 days of code challenge ☕
+[The 100 days of code challenge ☕](https://100dayscss.com).
 
 ### [Day 1](https://github.com/Li1506/100-Days-CSS-Challenge/tree/main/Day-1)
 
