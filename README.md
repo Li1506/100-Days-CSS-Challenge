@@ -10,3 +10,6 @@
 
 ### [Day 3](https://github.com/Li1506/100-Days-CSS-Challenge/tree/main/Day-3)
 ![day3-pyramide](https://user-images.githubusercontent.com/1281037/115016387-4d3f3c80-9ef8-11eb-8f40-a5aefaa40483.gif)
+
+### [Day 4](https://github.com/Li1506/100-Days-CSS-Challenge/tree/main/Day-4)
+![chrome-capture](https://user-images.githubusercontent.com/1281037/115221223-c931c280-a14c-11eb-8eda-156b2d352004.gif)
