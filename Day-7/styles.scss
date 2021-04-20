@@ -133,13 +133,17 @@ $blue-light: #b2daff;
       z-index: 2;
       font-size: 21px;
       color: $blue-light;
+      border: 1px solid $blue-light;
       top: 18px;
       right: 20px;
       transition: all 0.3s ease;
       cursor: pointer;
+      width: 10px;
+      height: 20px;
 
       &:hover {
         color: #fff;
+        background-color: #fff;
       }
     }
   }

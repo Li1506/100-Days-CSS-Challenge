@@ -137,15 +137,19 @@
   z-index: 2;
   font-size: 21px;
   color: #b2daff;
+  border: 1px solid #b2daff;
   top: 18px;
   right: 20px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   cursor: pointer;
+  width: 10px;
+  height: 20px;
 }
 
 .panel .header .search-icon:hover {
   color: #fff;
+  background-color: #fff;
 }
 
 .panel .notifications {
