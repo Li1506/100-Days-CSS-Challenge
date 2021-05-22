@@ -1,0 +1,47 @@
+.frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+  -webkit-box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
+          box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  background: #de4738;
+  color: #fff;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pixel {
+  float: left;
+}
+
+.pixel input {
+  display: none;
+}
+
+.pixel label {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #e24e3f;
+  cursor: pointer;
+}
+
+.pixel label:hover {
+  background: #ec5142;
+  border-color: #e24e3f;
+}
+
+.pixel input:checked ~ label {
+  background: #fff;
+  border-color: #fff;
+}
+/*# sourceMappingURL=styles.css.map */
